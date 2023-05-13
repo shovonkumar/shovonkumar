@@ -3,7 +3,7 @@
 <br>
 <img align="right" width="400px" src="animated.gif">
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 - 📫 How to reach me **shovon.cse2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
