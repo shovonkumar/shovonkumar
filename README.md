@@ -4,7 +4,7 @@
 <img align="right" width="400px" src="animated.gif">
 
 - 🌱 I’m currently learning **React**
-- 📫 How to reach me **shovon.cse2@gmail.com**
+- 📫 How to reach me **<a href="mailto:shovon.cse2@gmail.com" target="_blank">Send Mail</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
