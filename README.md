@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Shovon Kumar</h1>
-<h3 align="center">A passionate front-end developer from Bangladesh</h3>
+<h3 align="center">A front-end developer from Bangladesh</h3>
 <br>
 <img align="right" width="400px" src="animated.gif">
 
